@@ -1,2 +1,2 @@
-version 1.1
+version 1.2
 Se han modificado todos los cambios correctamente
